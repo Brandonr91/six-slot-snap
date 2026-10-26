@@ -1,0 +1,8 @@
+/bin/
+*.log
+layout.txt
+geometry.txt
+selector-preview.png
+*-test-result.txt
+*-test-error.txt
+
