@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="156" viewBox="0 0 360 104" role="img" aria-label="Six Slot Snap selector: slots 1, 2, 3 above slots 4, 5, 6">
+  <rect width="360" height="104" rx="6" fill="#232528"/>
+  <text x="180" y="19" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#d7dbe1">SNAP WINDOW &#160; Ctrl+Alt+1–6</text>
+  <g fill="#3e4146" stroke="#6e747d">
+    <rect x="9" y="28" width="108" height="28"/><rect x="123" y="28" width="108" height="28"/><rect x="237" y="28" width="108" height="28"/>
+    <rect x="9" y="62" width="108" height="28"/><rect x="123" y="62" width="108" height="28"/><rect x="237" y="62" width="108" height="28"/>
+  </g>
+  <g fill="white" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12">
+    <text x="63" y="47">1</text><text x="177" y="47">2</text><text x="291" y="47">3</text>
+    <text x="63" y="81">4</text><text x="177" y="81">5</text><text x="291" y="81">6</text>
+  </g>
+</svg>
